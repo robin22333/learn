@@ -144,3 +144,8 @@ $ git merge --no-ff -m "" dev
 ```bash
 $ git branch -D <name>
 ```
+####
+```bash
+$ git remote -v
+```
+
